@@ -2,11 +2,10 @@
 This repository contains materials and assignments for the ENGG680 course in the Fall 2024 semester.
 
 ## Table of Contents
-- [Chapter 1](#chapter-1)
+- [Introduction to Python](#introduction-to-python)
 - [Assignments](#assignments)
 
-## Chapter 1
-### Introduction to Python
+## Introduction to Python
 
 The following Python notebooks provide examples of programming concepts covered in the course:
 1. **Hello World**: The classic "Hello World" program, illustrating the basic structure of a Python script and how to print output to the console.
