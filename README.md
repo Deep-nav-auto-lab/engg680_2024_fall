@@ -19,3 +19,8 @@ The following Python notebooks provide examples of programming concepts covered 
 9. **Numpy Demo**: Introduces fundamental operations with the Numpy library in Python. It covers the creation and manipulation of arrays, including operations such as reshaping, broadcasting, and mathematical functions.
 10. **Matplotlib Demo**: Covers essential plotting techniques using the Matplotlib library, including 2D and 3D plots, heatmaps, histograms, and interactive elements.
 11. **Function Demo**: Covers function creation and usage in Python, including arithmetic operations, lambda functions, generators, decorators, and examples of using keyword arguments and logging.
+
+## Introduction to Machine Learning
+
+The following Python notebook provides examples of machine learning workflows and concepts covered in the course:
+1. **Pipeline Demo**: This Python notebook demonstrates key machine learning workflows, including data preprocessing, model training, and evaluation using classifiers like Random Forest and Logistic Regression, with practical examples of metrics and visualizations.
